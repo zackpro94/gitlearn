@@ -1,2 +1,2 @@
 THIS is  GIT TRAINING
-and git great !!!!!
+and git is good !!!!!
